@@ -1,0 +1,10 @@
+<div align="justify" class="col-md-7">
+    <h2 class="no-top-space">QhapaqNan - El Gran camino Inca</h2>
+    <p style="text-align: justify;">El Cusco, capital del Tawantinsuyu y sede el Estado Inca, fue el centro de divergencia y convergencia de la red vial troncal m&aacute;s importante y conocida -hasta ahora- del mundo andino: El Qhapaq &Ntilde;an. De la plaza de Hawk&rsquo;aypata del Cusco, part&iacute;an los cuatro caminos Inca a manera de una cruz. Por esta caracter&iacute;stica fue denominada como centro y &ldquo;Ombligo del Mundo&rdquo; Tawantinsuyano.</p>
+    <p style="text-align: justify;">Estos caminos fueron los par&aacute;metros de la organizaci&oacute;n social y espacial de la ciudad Inca. A partir de la Plaza Hawk&rsquo;aypata, se delimitaba la ciudad en dos sectores Hanan y Hurin, cumpliendo el principio dual de la sociedad Inca; a su vez, cada&nbsp; sector estuvo delimitado en otros dos sectores, ambos jerarquizados, respondiendo de igual forma a una estructura social estratificada. Los caminos no s&oacute;lo desempe&ntilde;aron funciones econ&oacute;micas, pol&iacute;ticas y administrativas, sino, tambi&eacute;n, tuvieron par&aacute;metros y roles de organizaci&oacute;n espacial, urbana y simb&oacute;lica. Tambi&eacute;n hubo otros caminos secundarios igual de importantes por sus caracter&iacute;sticas y funciones, que articulaban espacios socioculturales y ecosistemas m&uacute;ltiples.</p>
+    <p><strong>Significado</strong><br />
+        El t&eacute;rmino Qhapaq &Ntilde;an, proviene de dos vocablos Quechuas y tiene diverso significado:<br />
+        Gran Camino, Camino del Poderoso, Camino del Inka, Camino Real, Machu &Ntilde;an, Inka &Ntilde;an</p>
+    <p><a class="more" href="el_qhapaqnan.php">Ver Mas... <i class="icon-angle-right"></i></a></p>
+    <br>
+</div>
